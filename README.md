@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VedanshKamdar
-- 👀 I’m interested in Web Development and AI/ML
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Java Projects
+- 👀 I’m interested in Business Analysis
+- 🌱 I’m currently exploring DevOps and Cloud
 - 📫 How to reach me www.linkedin.com/in/vedanshkamdar
 
 <!---
