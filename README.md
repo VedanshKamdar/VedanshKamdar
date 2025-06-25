@@ -25,11 +25,10 @@ I'm an aspiring Data & AI Engineer passionate about using technology to make sma
 
 ## 🛠️ Technical Skills
 **Languages:** Python, JavaScript, SQL, LaTeX  
-**ML/DL:** scikit-learn, XGBoost, LSTM, DenseNet121, SMOTE, ARIMA, PyTorch, Keras  
-**GenAI/NLP:** OpenAI API, Groq, LLaMA, LangChain, Prompt Engineering, RAG  
+**ML/DL:** scikit-learn, XGBoost, LSTM, ARIMA, Decision Trees, Random Forest
+**GenAI/NLP:** OpenAI API, Groq, LLaMA, LangChain, Prompt Engineering, RAG (Advanced, Graph and CAG)
 **Data & Cloud:** Flask, MongoDB, PostgreSQL, Azure Blob, AWS, Metabase, Power BI  
-**Dev Tools:** Git, Docker, Trello, Airflow, Kubernetes (basic), VS Code  
-**Frontend:** HTML, CSS, Vanilla JS  
+**Dev Tools:** Git, Docker, Trello, Airflow, Kubernetes (basic), VS Code    
 
 ---
 
