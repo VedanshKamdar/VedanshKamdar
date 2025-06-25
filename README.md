@@ -1,23 +1,60 @@
 # Hi there, I'm Vedansh Kamdar! 👋
 
-## About Me
-- 📖 I'm currently a Bachelor of Technology student in Computer Engineering at Pandit Deendayal Energy University, graduating in 2025.
-- 👀 I'm passionate about **Business Analysis**, focusing on aligning business needs with technology solutions to drive process improvements and competitive advantage.
-- 🌱 I’m currently exploring **Machine Learning** and trying my hands on in the field of Artificial Intelligence.
+## 🚀 About Me
+I'm an aspiring Data & AI Engineer passionate about using technology to make smarter, faster, and more human-centered solutions.
 
-## Experience
-- **Synoptek India Pvt. Ltd., Summer Intern** (May 2024 - July 2024): Developed a POC for an OCR-based file upload system using the MERN stack, achieving significant text extraction accuracy and optimized client IT assets.
-- **AIESEC in Ahmedabad, Junior Manager, Business Development** (February 2022 - August 2022): Built strategic partnerships and managed finances and logistics for major local conferences.
+🎓 Final-year B.Tech student in Computer Engineering at **Pandit Deendayal Energy University** (Graduating 2025)  
+🔍 Exploring the intersection of **Machine Learning**, **Generative AI**, and **Data Engineering**  
+💡 Keen on building full-stack intelligent systems — from modeling and pipelines to GenAI apps
 
-## Technical Skills
-- **Languages**: Python, Java, JavaScript, C, LaTeX
-- **Frameworks/Libraries**: Node.js, Express, React, Pandas, Numpy, Matplotlib
-- **Databases**: MongoDB, MySQL
-- **Cloud Services**: AWS, Microsoft Azure
+---
 
-## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/vedanshkamdar)
-- [GitHub](https://github.com/VedanshKamdar)
+## 💼 Experience
+- 🧠 **Data Science Intern – Azilen Technologies** *(Jan 2025 – June 2025)*  
+  Worked on GenAI and ML-based solutions including:  
+  • A POC for demand forecasting in manufacturing using XGBoost and time-series models  
+  • A Generative AI-powered Learning Assessment Platform with contextual chatbot, summarization, and search (Groq, LLaMA, Flask, Kubernetes)
+
+- 🧾 **Summer Intern – Synoptek India Pvt. Ltd.** *(May 2024 – July 2024)*  
+  Built an OCR-based file upload system (MERN + Tesseract + Azure Blob); contributed to client-side business analysis and IT asset evaluation
+
+- 🌍 **Junior Manager – AIESEC in Ahmedabad** *(Feb 2022 – Aug 2022)*  
+  Secured sponsorships, co-led logistics for national MUN conferences, and developed cross-functional communication skills
+
+---
+
+## 🛠️ Technical Skills
+**Languages:** Python, JavaScript, SQL, LaTeX  
+**ML/DL:** scikit-learn, XGBoost, LSTM, DenseNet121, SMOTE, ARIMA, PyTorch, Keras  
+**GenAI/NLP:** OpenAI API, Groq, LLaMA, LangChain, Prompt Engineering, RAG  
+**Data & Cloud:** Flask, MongoDB, PostgreSQL, Azure Blob, AWS, Metabase, Power BI  
+**Dev Tools:** Git, Docker, Trello, Airflow, Kubernetes (basic), VS Code  
+**Frontend:** HTML, CSS, Vanilla JS  
+
+---
+
+## 🧠 Projects Worth Exploring
+- 📄 [OCR File Upload System](https://github.com/VedanshKamdar/OCR_Search)  
+  Full-stack system with secure file upload, OCR text extraction, and Azure-backed storage
+
+- 💳 [Credit Risk Assessment using ML](https://github.com/VedanshKamdar/Credit-Risk-Assessment)  
+  End-to-end pipeline using XGBoost for loan default prediction with class balancing and model tuning
+
+- 🧴 [Skin Disease Prediction Platform](https://github.com/virendrasinh734/skin_disease_detection_using_cnns)  
+  Smart India Hackathon project using CNN (DenseNet121) with dermatologist mapping and Flask frontend
+
+---
+
+## 🏀 Beyond Tech
+- 🏆 **National-level Basketball Player** (2019)  
+- 🧮 **UCMAS Mental Arithmetic** – 4ᵗʰ Runner-up at National Level  
+- 🏃 Completed a **Half Marathon** in 2h 4m
+
+---
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vedanshkamdar)
+- 💻 [GitHub](https://github.com/VedanshKamdar)
 
 <!---
 VedanshKamdar/VedanshKamdar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
